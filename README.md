@@ -1,6 +1,6 @@
 #### [UPLOADER-BOT](https://t.me/uploader_x_bot)
 
-[![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Size](https://heroku.com/deploy?template=https://github.com/12dasad/UPLOADER-BOT000?organization=12dasad&organization=12dasad)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
 
 ---
 
